@@ -1,0 +1,62 @@
+[
+  {
+      "first": "Fred",
+      "last": "Jacobi",
+      "email": "lavendergiraffe70@gmail.com",
+      "password": "senha1"
+  },
+  {
+      "first": "Keegan",
+      "last": "Metz",
+      "email": "Keegan.Metz@mathew.name",
+      "password": "senha2"
+  },
+  {
+      "first": "Giles",
+      "last": "Keeling",
+      "email": "Giles.Keeling@ashtyn.com",
+      "password": "senha3"
+  },
+  {
+      "first": "Tre",
+      "last": "Rowe",
+      "email": "Tre.Rowe@chasity.org",
+      "password": "senha4"
+  },
+  {
+      "first": "Jairo",
+      "last": "Doyle",
+      "email": "Jairo.Doyle@scot.info",
+      "password": "senha5"
+  },
+  {
+      "first": "Gussie",
+      "last": "Bergstrom",
+      "email": "yellowfrog85@gmail.com",
+      "password": "senha6"
+  },
+  {
+      "first": "Cydney",
+      "last": "Kovacek",
+      "email": "Cydney.Kovacek@levi.name",
+      "password": "senha7"
+  },
+  {
+      "first": "Genevieve",
+      "last": "Boyer",
+      "email": "silversquirrel65@gmail.com",
+      "password": "senha8"
+  },
+  {
+      "first": "Elnora",
+      "last": "Jast",
+      "email": "orchidwolf42@gmail.com",
+      "password": "senha9"
+  },
+  {
+      "first": "Jayme",
+      "last": "Nader",
+      "email": "Jayme.Nader@lilliana.com",
+      "password": "senha10"
+  }
+]
